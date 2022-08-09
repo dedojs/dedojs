@@ -3,7 +3,7 @@
 - 🔭 Desenvolvedor Front End, adquirindo conhecimento em Back End, com intuito de me tornar um desenvolvedor Full Stack.
 - 🌱 Adquirindo e aperfeiçoando conhecimentos sobre Programação e Desenvolvimento Web Full Stack 🖥️ na Trybe
 - 🎓 Estudante da UNIT - Cursando Análise e Desenvolvimento de Sistemas 👨‍🎓
-- 🤔 Estudando: JavaScript, Css, React, Redux, Java, SQL, Docker
+- 🤔 Estudando: JavaScript, Css, React, Redux, Java, SQL, Docker, NodeJs, Express, TypeScript, Poo
 - 😄 Pronouns: Ele / Dele
 - 🚵 Gosto de pedalar, 🚴, assistir filmes e séries 🧙‍♂🧛👽 e passar bons momentos em família 🏖 👨‍👩‍👧‍👧🐕 🏖️
 <div align="center">
