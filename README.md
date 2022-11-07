@@ -1,6 +1,6 @@
 ## Olá Mundo! Me chamo André Sousa 🙋‍♂️
 
-- 🔭 Desenvolvedor Front End, adquirindo conhecimento em Back End, com intuito de me tornar um desenvolvedor Full Stack.
+- 🔭 Desenvolvedor Full Stack - Web.
 - 🌱 Adquirindo e aperfeiçoando conhecimentos sobre Programação e Desenvolvimento Web Full Stack 🖥️ na Trybe
 - 🎓 Estudante da UNIT - Cursando Análise e Desenvolvimento de Sistemas 👨‍🎓
 - 🤔 Estudando: JavaScript, Css, React, Redux, Java, SQL, Docker, NodeJs, Express, TypeScript, Poo, Jest.
