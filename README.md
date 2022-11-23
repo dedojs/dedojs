@@ -1,5 +1,6 @@
 ## Olá Mundo! Me chamo André Sousa 🙋‍♂️
 
+- Visitem meu portfólio: https://andresousaprofile.netlify.app/
 - 🔭 Desenvolvedor Full Stack - Web.
 - 🌱 Adquirindo e aperfeiçoando conhecimentos sobre Programação e Desenvolvimento Web Full Stack 🖥️ na Trybe
 - 🎓 Estudante da UNIT - Cursando Análise e Desenvolvimento de Sistemas 👨‍🎓
