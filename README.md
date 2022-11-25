@@ -27,8 +27,8 @@
   ##
  
 <div> 
-  <a href="https://andresousaprofile.netlify.app/" target="_blank"><img src="https://media.istockphoto.com/id/1307651181/pt/vetorial/the-word-portfolio-on-colorful-background.jpg?s=170667a&w=0&k=20&c=EeWkGkuUOPXWWZ6ZCKvqU-yky8iUKfyUwCY4x9sX1ls=" target="_blank" height="30" width="100"></a>
-  <a href = "mailto:xandresousax@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://andresousaprofile.netlify.app/"  target="_blank"><img src="https://media.istockphoto.com/id/1307651181/pt/vetorial/the-word-portfolio-on-colorful-background.jpg?s=170667a&w=0&k=20&c=EeWkGkuUOPXWWZ6ZCKvqU-yky8iUKfyUwCY4x9sX1ls="height="30" width="100"></a>
+  <a href = "mailto:xandresousax@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/andre-luis-sousa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![snake gif](https://github.com/dedojs/dedojs/blob/output/github-contribution-grid-snake.gif)
