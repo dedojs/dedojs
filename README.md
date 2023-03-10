@@ -29,7 +29,10 @@
   <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg">
   <img align="center" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">
   <img align="center" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg">
-  
+</div>
+
+<div style="display: inline_block" align="center" height="120" width="120"><br>
+  ![](https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
 </div>
        
   ##
