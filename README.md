@@ -3,9 +3,10 @@
 - Visitem meu portfólio: https://andresousaprofile.netlify.app/
 - 🔭 Desenvolvedor Full Stack - Web Jr.
 - -  Desenvolvedor BackEnd C# Jr
+- - [Certificação: Azure AZ-900](https://www.credly.com/badges/67bd222c-bc1d-4dbf-8997-84df7a04e41f/public_url)
 - 🌱 Adquirindo e aperfeiçoando conhecimentos sobre Programação e Desenvolvimento Web Full Stack 🖥️ na Trybe
 - 🎓 Estudante da UNIT - Cursando Análise e Desenvolvimento de Sistemas 👨‍🎓
-- 🤔 Estudando: JavaScript, Css, HTML5, React, Redux, Java, SQL, MongoDB, Docker, NodeJs, Express, TypeScript, Poo, Jest, Python, C#.
+- 🤔 Estudando: C#, Asp Net, Azure.
 - 😄 Pronouns: Ele / Dele
 - 🚵 Gosto de pedalar, 🚴, assistir filmes e séries 🧙‍♂🧛👽 e passar bons momentos em família 🏖 👨‍👩‍👧‍👧🐕 🏖️
 
