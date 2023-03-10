@@ -3,7 +3,7 @@
 - Visitem meu portfólio: https://andresousaprofile.netlify.app/
 - 🔭 Desenvolvedor Full Stack - Web Jr.
 - -  Desenvolvedor BackEnd C# Jr
-- - [Certificação: Azure AZ-900](https://www.credly.com/badges/67bd222c-bc1d-4dbf-8997-84df7a04e41f/public_url)
+- - [Certificação: Azure AZ-900](https://learn.microsoft.com/pt-br/users/andresousa-5978/certifications/certification-print/certification.azure-fundamentals)
 - 🌱 Adquirindo e aperfeiçoando conhecimentos sobre Programação e Desenvolvimento Web Full Stack 🖥️ na Trybe
 - 🎓 Estudante da UNIT - Cursando Análise e Desenvolvimento de Sistemas 👨‍🎓
 - 🤔 Estudando: C#, Asp Net, Azure.
@@ -31,11 +31,9 @@
   <img align="center" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg">
 </div>
 
-<div style="display: inline_block" align="center" height="120" width="120"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" height="120" width="120" src="https://images.credly.com/size/120x120/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
 </div>
-  
- ![](https://images.credly.com/size/120x120/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
        
   ##
  
