@@ -32,9 +32,10 @@
 </div>
 
 <div style="display: inline_block" align="center" height="120" width="120"><br>
-  <img align="center" height="40" width="60" src="https://images.credly.com/size/120x120/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
+  <img align="center" height="120" width="120" src="https://images.credly.com/size/120x120/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
 </div>
-  ![](https://images.credly.com/size/120x120/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
+  
+ ![](https://images.credly.com/size/120x120/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
        
   ##
  
