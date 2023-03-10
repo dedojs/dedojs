@@ -24,6 +24,11 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
   <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg">
+  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg">
+  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">
+  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg">
+  
 </div>
        
   ##
