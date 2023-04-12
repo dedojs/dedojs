@@ -36,9 +36,9 @@
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" height="120" width="120" src="https://images.credly.com/size/120x120/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
-  <img align="center" height="120" width="120" src="https://www.credly.com/badges/003fbfc0-d987-48d0-a9fe-1fa151e1491c/public_url">
-  <img align="center" height="120" width="120" src="https://www.credly.com/badges/1a97269a-01f6-4281-8631-9c3e41bd5805/public_url">
-  <img align="center" height="120" width="120" src="https://www.credly.com/badges/9bf3960f-303d-440c-991b-f4b7eb11b383/public_url">
+  <img align="center" height="120" width="120" src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png">
+  <img align="center" height="120" width="120" src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png">
+  <img align="center" height="120" width="120" src="https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png">
 </div>
        
   ##
