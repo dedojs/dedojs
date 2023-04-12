@@ -2,7 +2,7 @@
 
 - Visitem meu portfólio: https://andresousaprofile.netlify.app/
 - 🔭 Desenvolvedor Full Stack - Web Jr.
-- -  Desenvolvedor Full Stack Web / BackEnd C# Jr
+- -  Desenvolvedor BackEnd C#, .NET Jr
 - - [Certificação: Azure AZ-900](https://www.credly.com/badges/67bd222c-bc1d-4dbf-8997-84df7a04e41f/public_url)
 - - [Certificação: Azure DP-900](https://www.credly.com/badges/003fbfc0-d987-48d0-a9fe-1fa151e1491c)
 - - [Certificação: Azure AI-900](https://www.credly.com/badges/1a97269a-01f6-4281-8631-9c3e41bd5805/public_url)
