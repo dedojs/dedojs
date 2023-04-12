@@ -2,11 +2,14 @@
 
 - Visitem meu portfólio: https://andresousaprofile.netlify.app/
 - 🔭 Desenvolvedor Full Stack - Web Jr.
-- -  Desenvolvedor BackEnd C# Jr
-- - [Certificação: Azure AZ-900](https://learn.microsoft.com/pt-br/users/andresousa-5978/certifications/certification-print/certification.azure-fundamentals)
-- 🌱 Adquirindo e aperfeiçoando conhecimentos sobre Programação e Desenvolvimento Web Full Stack 🖥️ na Trybe
+- -  Desenvolvedor Full Stack Web / BackEnd C# Jr
+- - [Certificação: Azure AZ-900](https://www.credly.com/badges/67bd222c-bc1d-4dbf-8997-84df7a04e41f/public_url)
+- - [Certificação: Azure DP-900](https://www.credly.com/badges/003fbfc0-d987-48d0-a9fe-1fa151e1491c)
+- - [Certificação: Azure AI-900](https://www.credly.com/badges/1a97269a-01f6-4281-8631-9c3e41bd5805/public_url)
+- - [Certificação: Microsoft SC-900](https://www.credly.com/badges/9bf3960f-303d-440c-991b-f4b7eb11b383/public_url)
+- 🌱 Formado em Desenvolvimento Web Full Stack 🖥️ na Trybe
 - 🎓 Estudante da UNIT - Cursando Análise e Desenvolvimento de Sistemas 👨‍🎓
-- 🤔 Estudando: C#, Asp Net, Azure.
+- 🤔 Estudando: C#, Asp Net, Azure, ServiceNow, Inglês ......
 - 😄 Pronouns: Ele / Dele
 - 🚵 Gosto de pedalar, 🚴, assistir filmes e séries 🧙‍♂🧛👽 e passar bons momentos em família 🏖 👨‍👩‍👧‍👧🐕 🏖️
 
@@ -33,6 +36,9 @@
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" height="120" width="120" src="https://images.credly.com/size/120x120/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
+  <img align="center" height="120" width="120" src="https://www.credly.com/badges/003fbfc0-d987-48d0-a9fe-1fa151e1491c/public_url">
+  <img align="center" height="120" width="120" src="https://www.credly.com/badges/1a97269a-01f6-4281-8631-9c3e41bd5805/public_url">
+  <img align="center" height="120" width="120" src="https://www.credly.com/badges/9bf3960f-303d-440c-991b-f4b7eb11b383/public_url">
 </div>
        
   ##
