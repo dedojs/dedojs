@@ -6,7 +6,8 @@
 - - [Certificação: Azure AZ-900](https://www.credly.com/badges/67bd222c-bc1d-4dbf-8997-84df7a04e41f/public_url)
 - - [Certificação: Azure DP-900](https://www.credly.com/badges/003fbfc0-d987-48d0-a9fe-1fa151e1491c)
 - - [Certificação: Azure AI-900](https://www.credly.com/badges/1a97269a-01f6-4281-8631-9c3e41bd5805/public_url)
-- - [Certificação: Microsoft SC-900](https://www.credly.com/badges/9bf3960f-303d-440c-991b-f4b7eb11b383/public_url)
+- - [Certificação: Microsoft Scurity, Compliance SC-900](https://www.credly.com/badges/9bf3960f-303d-440c-991b-f4b7eb11b383/public_url)
+- - [Certificação: Microsoft Power Platform PL-900](https://www.credly.com/badges/a5b6d568-6237-4a32-bdca-97d89b798f06/public_url)
 - 🌱 Formado em Desenvolvimento Web Full Stack 🖥️ na Trybe
 - 🎓 Estudante da UNIT - Cursando Análise e Desenvolvimento de Sistemas 👨‍🎓
 - 🤔 Estudando: C#, Asp Net, Azure, ServiceNow, Inglês ......
@@ -39,6 +40,7 @@
   <img align="center" height="120" width="120" src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png">
   <img align="center" height="120" width="120" src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png">
   <img align="center" height="120" width="120" src="https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png">
+  <img align="center" height="120" width="120" src="https://images.credly.com/size/110x110/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png">
 </div>
        
   ##
